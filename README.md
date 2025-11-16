@@ -1,4 +1,4 @@
-# 🌊 Intelligent Wastewater Pumping Optimization
+# 🌊 Intelligent Wastewater Pumping Optimization (IWPO)
 
 **Multi-Agent AI System for Energy Cost Reduction**
 
