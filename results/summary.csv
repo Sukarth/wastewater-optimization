@@ -1,0 +1,3 @@
+strategy,duration_h,energy_cost_eur,avg_level_m,min_level_m,max_level_m,constraint_violations
+multi_agent,24.0,60.56601703784877,1.1803194096945422,0.4,2.3728875195401287,32.0
+baseline,24.0,83.0094543945842,1.1485549071915762,0.4,2.3728875195401287,36.0
